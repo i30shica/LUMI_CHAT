@@ -1,0 +1,7 @@
+flask
+flask-socketio
+pymongo
+boto3
+eventlet
+//npm install @react-navigation/native react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated socket.io-client react-native-image-picker
+npm install --save @react-native-async-storage/async-storage
